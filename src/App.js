@@ -15,9 +15,8 @@ function App() {
     <div className="App">
       <Navigation />
       <Masthead />
-      <About />
       <Portfolio />
-      <Contact />
+      <About />
       <Footer />
       <Copyright />
       <Modal />

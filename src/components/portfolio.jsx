@@ -25,7 +25,7 @@ export default class Portfolio extends Component {
                           <i class="fas fa-plus fa-3x"></i>
                         </div>
                       </div>
-                      <img class="img-fluid" src="img/portfolio/cabin.png" alt=""> </img>
+                      <img class="img-fluid" src="img/portfolio/cabin.png" alt="" />
                     </div>
                   </div>
 
@@ -36,7 +36,7 @@ export default class Portfolio extends Component {
                           <i class="fas fa-plus fa-3x"></i>
                         </div>
                       </div>
-                      <img class="img-fluid" src="img/portfolio/cake.png" alt=""> </img>
+                      <img class="img-fluid" src="img/portfolio/cake.png" alt="" />
                     </div>
                   </div>
 
@@ -47,7 +47,7 @@ export default class Portfolio extends Component {
                           <i class="fas fa-plus fa-3x"></i>
                         </div>
                       </div>
-                      <img class="img-fluid" src="img/portfolio/circus.png" alt=""> </img>
+                      <img class="img-fluid" src="img/portfolio/circus.png" alt="" />
                     </div>
                   </div>
 
@@ -58,7 +58,7 @@ export default class Portfolio extends Component {
                           <i class="fas fa-plus fa-3x"></i>
                         </div>
                       </div>
-                      <img class="img-fluid" src="img/portfolio/game.png" alt=""> </img>
+                      <img class="img-fluid" src="img/portfolio/game.png" alt="" />
                     </div>
                   </div>
 
@@ -69,7 +69,7 @@ export default class Portfolio extends Component {
                           <i class="fas fa-plus fa-3x"></i>
                         </div>
                       </div>
-                      <img class="img-fluid" src="img/portfolio/safe.png" alt=""> </img>
+                      <img class="img-fluid" src="img/portfolio/safe.png" alt="" />
                     </div>
                   </div>
 
@@ -80,7 +80,7 @@ export default class Portfolio extends Component {
                           <i class="fas fa-plus fa-3x"></i>
                         </div>
                       </div>
-                      <img class="img-fluid" src="img/portfolio/submarine.png" alt=""> </img>
+                      <img class="img-fluid" src="img/portfolio/submarine.png" alt=""/>
                     </div>
                   </div>
 
