@@ -1,3 +1,14 @@
+## Throwaway Portfolio
+Old portfolio site i was working on as a demo
+
+## Technology Used
+
+- Html
+- Css
+- JavaScript
+- Materialize CSS
+- ReactJS
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
